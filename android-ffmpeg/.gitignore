@@ -1,0 +1,5 @@
+*.o
+*.so
+ffmpeg
+build
+ffmpeg-version
